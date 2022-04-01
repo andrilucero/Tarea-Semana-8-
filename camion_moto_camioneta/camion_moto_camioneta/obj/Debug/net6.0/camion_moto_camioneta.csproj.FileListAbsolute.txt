@@ -1,0 +1,15 @@
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.csproj.AssemblyReference.cache
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.AssemblyInfoInputs.cache
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.AssemblyInfo.cs
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.csproj.CoreCompileInputs.cache
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/bin/Debug/net6.0/camion_moto_camioneta
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/bin/Debug/net6.0/camion_moto_camioneta.deps.json
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/bin/Debug/net6.0/camion_moto_camioneta.runtimeconfig.json
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/bin/Debug/net6.0/camion_moto_camioneta.dll
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/bin/Debug/net6.0/camion_moto_camioneta.pdb
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.dll
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/refint/camion_moto_camioneta.dll
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.pdb
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/camion_moto_camioneta.genruntimeconfig.cache
+/Users/andrilucero/Projects/camion_moto_camioneta/camion_moto_camioneta/obj/Debug/net6.0/ref/camion_moto_camioneta.dll
